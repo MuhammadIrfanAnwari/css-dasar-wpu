@@ -1,0 +1,18 @@
+/*belajar mengenai text styling*/
+
+h1{
+	color : #fe0000;
+	font-size: 100px;
+	text-transform: lowercase;
+}
+
+a{
+	text-decoration: none;
+}
+
+p{
+	text-align: justify;
+	text-indent: 100px;
+	text-transform: capitalize;
+	word-spacing: 10px;
+}
